@@ -1,2 +1,2 @@
 # flask_dbinteraction
-A simple flask project that involves database interaction
+A flask project that involves database interaction
